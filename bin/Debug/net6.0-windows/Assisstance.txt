@@ -1,0 +1,22 @@
+                                      READ THE FOLLOWING INSTRUCTIONS FOR HELP AND GUIDANCE.
+FEATURES FOR YOU
+
+1)Login the system as a cashier using credentials(username and password) provided to you for accessing various features of the system.
+2)TO VIEW INVENTORY: Click on the display feature of your interface.
+3)FOR TRANSACTIONS: Click the transactions button on your interface. It would further give you 3 features.
+
+SALES: For sale of items and receipt generation. Enter id and quantity of each item and finally click next to generate receipt.
+RETURN: For returnung an item into inventory.
+EXCHANGE: For exchanging a saled item with another one in the inventory.
+
+RULES AND REGULATIONS:
+
+1)You are not allowed to share your login credentials(username and password) with anyone.
+2)You are not allowed to login to the system with someone else's login credentials.
+3)For transactions, enter the item ids and quantity carefully. Avoid making mistakes.
+4)Be nice to customers. Provide them with best services.
+5)In case of any issue, report it to the store manager immedeiately.
+                                   
+Note: Exploitation of these rules can result in heavy penalty.
+
+
